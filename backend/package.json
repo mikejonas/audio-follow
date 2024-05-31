@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-polly": "^3.332.0",
+    "@google-cloud/text-to-speech": "^4.2.2",
+    "aws-sdk": "^2.1379.0"
+  }
+}
